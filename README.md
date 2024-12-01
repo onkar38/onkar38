@@ -64,5 +64,5 @@
 
 <hr/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkar3&theme=onedark" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=onedark" alt="trophies">
 </div>

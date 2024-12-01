@@ -18,7 +18,7 @@
 
  📫 How to reach me <a href="mailto:onkarphopase026@gmail.com">onkarphopase026@gmail.com</a>
 
- 📄 About myself: I'm Onkar Phopase, a dedicated Electronics and Telecommunication engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
+ 📄 About myself: I'm Onkar Phopase, a dedicated Computer engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
 
  ⚡ Fun Fact I like Playing Games like Valorant, BGMI and creates new stuffs
 

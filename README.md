@@ -14,7 +14,7 @@
 
  👯 Language/OS I know PYTHON, JAVASCRIPT, HTML-CSS, C, C++, Windows, Linux
 
- 👨‍💻 All of my projects are available at <a href="https://github.com/CyberHunter8857">GitHub</a>
+ 👨‍💻 All of my projects are available at <a href="https://github.com/onkar38">GitHub</a>
 
  📫 How to reach me <a href="mailto:onkarphopase026@gmail.com">onkarphopase026@gmail.com</a>
 

@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <a href="https://github.com/onkar38/Face-Recognition-Based-Attendance-System">Making my Portfolio</a>
+ 🔭 I’m currently working on <a href="https://github.com/onkar38/Face-Recognition-Based-Attendance-System">Face Recognition Base Attendance System</a>
  
  🌱 I’m currently learning Full Stack Developement
 

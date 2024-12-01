@@ -58,7 +58,7 @@
     <img width=390 src="https://streak-stats.demolab.com?user=onkar38&theme=react&border_radius=10" alt="GitHub Streak" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=onkar38&theme=react&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar3&theme=react&show_icons=true&hide_border=false&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&theme=react&show_icons=true&hide_border=false&layout=compact" />
 </div>
 <br/>
 

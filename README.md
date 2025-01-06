@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=onkar38.onkar38" />
 
 <h1 align="center">
-   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&width=500&lines=Hello+There;I+am+Onkar+Phopase)https://git.io/typing-svg" alt="Typing SVG" /></a>
+   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&width=500&lines=Hello+There;I+am+Onkar+Phopase https://git.io/typing-svg" alt="Typing SVG" /></a>
 <h3 align="center">A Passionate Developer from India. Still working on my skills and trying to do better.</h3>
 
 <br/>

@@ -57,9 +57,9 @@ class DataEngineer:
 
 ### **Languages & Databases**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,scala,bash,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,scala,bash" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 </div>
 
 ### **Big Data & Processing**
@@ -128,12 +128,14 @@ Automated data ingestion from multiple sources with error handling and monitorin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=onkar38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=onkar38&theme=tokyonight&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=onkar38&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar38&theme=react&hide_border=true&background=1F222E&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Top Languages" />
 </div>
 
 <br/>
@@ -141,7 +143,7 @@ Automated data ingestion from multiple sources with error handling and monitorin
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -155,4 +157,3 @@ Automated data ingestion from multiple sources with error handling and monitorin
   
   ⭐️ From [onkar38](https://github.com/onkar38) | Open to Data Engineering opportunities
 </div>
-  

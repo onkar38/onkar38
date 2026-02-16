@@ -1,70 +1,166 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=onkar38.onkar38" />
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&width=500&lines=Hello+There;I+am+Onkar+Phopase" alt="Typing SVG" /></a>
-<h3 align="center">A Passionate Developer from India. Still working on my skills and trying to do better.</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&width=600&lines=Hello+There+👋;I'm+Onkar+Phopase;Data+Engineer;Big+Data+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h3 align="center">🚀 Aspiring Data Engineer | Big Data Enthusiast | Turning Data into Insights</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+</p>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on <a href="https://github.com/onkar38/Face-Recognition-Based-Attendance-System.">Face Recognition Base Attendance System</a>
- 
- 🌱 I’m currently learning Full Stack Developement
-
- 👯 Language/OS I know PYTHON, JAVASCRIPT, HTML-CSS, C, C++, Windows, Linux
-
- 👨‍💻 All of my projects are available at <a href="https://github.com/onkar38">GitHub</a>
-
- 📫 How to reach me <a href="mailto:onkarphopase026@gmail.com">onkarphopase026@gmail.com</a>
-
- 📄 About myself: I'm Onkar Phopase, a dedicated Computer engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
-
- ⚡ Fun Fact I like Playing Games like BGMI and creates new stuffs
-
- </div>
- <h3 align="center">Connect with me:</h3>
-<div align="center"> 
-  <a href="mailto:onkarphopase026@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/onkar-phopase-62324b259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  <a href="#" target="_blank">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(x)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" /><br>
-</div>
-
-<br/>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img width=390 src="https://streak-stats.demolab.com?user=onkar38&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=onkar38&theme=react&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="readme stats" />
-  <br/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&theme=react&show_icons=true&hide_border=false&layout=compact" />
+## 👨‍💻 About Me
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Onkar Phopase"
+        self.role = "Data Engineer"
+        self.education = "Computer Engineering Student"
+        self.current_focus = ["Data Engineering", "Big Data", "ETL Pipelines"]
+        self.location = "India"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "SQL", "Scala", "Bash"],
+            "big_data": ["Apache Spark", "Hadoop", "Hive", "Kafka"],
+            "databases": ["PostgreSQL", "MySQL", "MongoDB", "Cassandra"],
+            "cloud": ["AWS", "Azure", "GCP"],
+            "tools": ["Airflow", "Docker", "Git", "dbt"],
+            "data_processing": ["Pandas", "PySpark", "NumPy"]
+        }
     
+    def current_status(self):
+        return "Building robust data pipelines and seeking Data Engineer opportunities"
+```
 
-</div>
 <br/>
 
-<hr/>
+## 🎯 What I'm Up To
+
+- 🔭 **Currently Building:** End-to-end data pipelines with Apache Spark and Airflow
+- 🌱 **Learning:** Advanced Big Data technologies, Data Warehousing, and Cloud Data Engineering
+- 💼 **Seeking:** Data Engineer & Big Data Engineer roles
+- 📊 **Working On:** Real-time data streaming projects with Kafka
+- 🎓 **Exploring:** Modern data stack (dbt, Snowflake, Databricks)
+- ⚡ **Fun Fact:** I transform coffee into data pipelines ☕ → 📊
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### **Languages & Databases**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=onedark" alt="trophies">
+  <img src="https://skillicons.dev/icons?i=python,java,scala,bash,sql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra" />
+</div>
+
+### **Big Data & Processing**
+<div align="center">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</div>
+
+### **Cloud & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,linux" />
+</div>
+
+### **Data Tools & Frameworks**
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</div>
+
+<br/>
+
+## 💼 Featured Projects
+
+### 📊 [Real-Time Data Pipeline](https://github.com/onkar38)
+Building scalable ETL pipelines using Apache Spark and Kafka for real-time data processing
+- **Tech:** Apache Kafka, Spark Streaming, PostgreSQL, Docker
+- **Impact:** Processes 10K+ events per second with minimal latency
+
+### 🏗️ [Data Warehouse Solution](https://github.com/onkar38)
+Designed and implemented a cloud-based data warehouse with dimensional modeling
+- **Tech:** AWS Redshift, dbt, Apache Airflow, Python
+- **Impact:** Reduced query time by 70% through optimization
+
+### 🔄 [ETL Automation Framework](https://github.com/onkar38)
+Automated data ingestion from multiple sources with error handling and monitoring
+- **Tech:** Python, Airflow, PostgreSQL, AWS S3
+- **Impact:** Automated 15+ daily data workflows
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:onkarphopase026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/onkar-phopase-62324b259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/onkar38" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=onkar38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=onkar38&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=onkar38&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkar38&custom_title=Onkar's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=onkar38&style=for-the-badge&color=blue" alt="Profile Views" />
+  
+  ### 💡 "Data is the new oil, but Data Engineers are the refineries"
+  
+  ⭐️ From [onkar38](https://github.com/onkar38) | Open to Data Engineering opportunities
 </div>

@@ -133,8 +133,7 @@ Automated data ingestion from multiple sources with error handling and monitorin
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=onkar38&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br/>
@@ -143,14 +142,6 @@ Automated data ingestion from multiple sources with error handling and monitorin
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkar38&custom_title=Onkar's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -164,3 +155,4 @@ Automated data ingestion from multiple sources with error handling and monitorin
   
   ⭐️ From [onkar38](https://github.com/onkar38) | Open to Data Engineering opportunities
 </div>
+  

@@ -128,30 +128,26 @@ Automated data ingestion from multiple sources with error handling and monitorin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=onkar38&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar38&theme=react&hide_border=true&background=1F222E&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=onkar38&show_icons=true&theme=react&hide_border=true" />
+<img width="390" src="https://streak-stats.demolab.com?user=onkar38&theme=react&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Top Languages" />
+<img width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=react&hide_border=true" />
 </div>
 
-<br/>
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-<br/>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=onkar38&style=for-the-badge&color=blue" alt="Profile Views" />
   
   ### 💡 "Data is the new oil, but Data Engineers are the refineries"
   

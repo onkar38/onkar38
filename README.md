@@ -125,26 +125,6 @@ Automated data ingestion from multiple sources with error handling and monitorin
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=onkar38&show_icons=true&theme=react&hide_border=true" />
-<img width="390" src="https://streak-stats.demolab.com?user=onkar38&theme=react&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-<img width="700" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar38&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=onkar38&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
 
 
 
